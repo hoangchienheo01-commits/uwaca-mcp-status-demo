@@ -1,0 +1,2 @@
+# Official MCP SDK only, no CLI extras; independent of the UWACA workspace.
+mcp==1.30.0
